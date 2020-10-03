@@ -1,0 +1,9 @@
+**/target/**
+apache-ant/lib/groovy-all-2.4.5.jar
+jasperserver/buildomatic/build_conf/
+jasperserver/buildomatic/conf_source/ieCe/
+jasperserver/buildomatic/install_resources/war/
+jasperserver/buildomatic/jacoco.coverage.temp.json
+jasperserver/buildomatic/jdbc-dep/
+jasperserver/buildomatic/js-mvn
+jasperserver/buildomatic/keystore.init.properties
