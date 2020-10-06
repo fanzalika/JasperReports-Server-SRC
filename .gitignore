@@ -1,0 +1,8 @@
+**/target/**
+bin/
+.project
+jasperserver/buildomatic/build_conf/
+jasperserver/buildomatic/conf_source/ieCe/
+jasperserver/buildomatic/install_resources/war/
+jasperserver/buildomatic/jdbc-dep/
+jasperserver/buildomatic/js-mvn
